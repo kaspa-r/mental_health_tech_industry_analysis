@@ -1,5 +1,3 @@
-# karutka-DA.1.5
-
 # Mental Health in the Tech Industry Survey Analysis 
 
 ## Foreground
